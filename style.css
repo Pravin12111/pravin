@@ -6,7 +6,12 @@
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(200, 106, 17);
+    cursor: pointer;
 }
 .pravin{
     text-align: center;
+}
+.class:hover{
+    height: 200px;
+    width: 400px;
 }
