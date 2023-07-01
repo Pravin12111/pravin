@@ -1,0 +1,12 @@
+.class{
+    height: 500px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(200, 106, 17);
+}
+.pravin{
+    text-align: center;
+}
